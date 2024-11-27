@@ -1,8 +1,8 @@
 package lotto.controller;
 
 import java.util.List;
-import lotto.model.Lotto;
-import lotto.model.LottoRank;
+import lotto.domain.Lotto;
+import lotto.domain.LottoRank;
 import lotto.service.LottoService;
 
 public class LottoController {

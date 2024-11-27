@@ -2,7 +2,8 @@ package lotto.service;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
-import lotto.model.ErrorMessage;
+import lotto.constans.ErrorMessage;
+import lotto.util.InputValidator;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;

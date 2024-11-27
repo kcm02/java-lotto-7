@@ -3,9 +3,9 @@ package lotto.service;
 import camp.nextstep.edu.missionutils.Randoms;
 import java.util.ArrayList;
 import java.util.List;
-import lotto.model.Lotto;
-import lotto.model.LottoRank;
-import lotto.model.LottoResult;
+import lotto.domain.Lotto;
+import lotto.domain.LottoRank;
+import lotto.domain.LottoResult;
 import lotto.view.InputView;
 import lotto.view.OutputView;
 

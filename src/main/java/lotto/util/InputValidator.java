@@ -1,8 +1,8 @@
-package lotto.service;
+package lotto.util;
 
 import java.util.ArrayList;
 import java.util.List;
-import lotto.model.ErrorMessage;
+import lotto.constans.ErrorMessage;
 
 public class InputValidator {
 

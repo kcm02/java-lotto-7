@@ -1,4 +1,4 @@
-package lotto.model;
+package lotto.constans;
 
 public class ErrorMessage {
 

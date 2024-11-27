@@ -1,7 +1,8 @@
-package lotto.model;
+package lotto.domain;
 
 import java.util.Collections;
 import java.util.List;
+import lotto.constans.ErrorMessage;
 
 public class Lotto {
 
